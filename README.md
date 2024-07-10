@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="20%">
+# <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="20%">
 <p align="center">
 	<a href="mailto:siraj.shaon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EF4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/sirajshaon" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -111,13 +111,9 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/sirajshaon/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/sisirajshaon" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/sisirajshaon/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="http://www.youtube.com/@sirajulislamshaon8653" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FA0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
-</p>
- 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sisirajshaon)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sirajshaon)   
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sisirajshaon)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sisirajshaon.com)  
+	<a href="http://www.youtube.com/@sirajulislamshaon8653" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FA0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a> 
+
+ </p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
@@ -230,7 +226,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sirajshaon&theme=radical&hide_border=false)
 <br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sirajshaon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sirajshaon&theme=radical&no-frame=false&no-bg=true&margin-w=50)
 <!--START_SECTION:waka-->
 ## 🐍 A Snake Eating My Contributions Graph
 
