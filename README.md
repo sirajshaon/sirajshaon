@@ -1,5 +1,4 @@
-## Hi there 👋, my name is Sirajul Islam
-#### I am GitHub Readme Generator's creator
+
 ![I am GitHub Readme Generator's creator](https://scontent.fdac24-3.fna.fbcdn.net/v/t39.30808-6/450507292_2393891660810654_2671564306253458621_n.png?stp=dst-png_s960x960&_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=gRgwJ-LUBf8Q7kNvgEKosOg&_nc_ht=scontent.fdac24-3.fna&oh=00_AYAqZs2DiKurffTK33l_27ygHKesd_ggocZhzvvzzxpXXw&oe=6694837B)
 
 <!--
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D2A306&center=true&vCenter=true&random=false&width=600&lines=Hi👋+I'm+Sirajul+Islam..;BSc+Engineer+-+EEE;👀+Interested+In+Web+Design..;Currently+Learning+PHP..;Empowering+Others;Nice+To+Meet+You+...." alt="Typing SVG" /></a>
 </p>
@@ -104,7 +103,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="10%"> Connect with me
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="20%">
 <p align="center">
 	<a href="mailto:siraj.shaon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23EF4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/sirajshaon" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -114,7 +113,11 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/sisirajshaon/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="http://www.youtube.com/@sirajulislamshaon8653" target="_blank"><img src="https://img.shields.io/badge/youtube-%23FA0000.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
-
+ 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sisirajshaon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sirajshaon)   
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/sisirajshaon)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.sisirajshaon.com)  
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
